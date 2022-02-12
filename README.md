@@ -1,4 +1,4 @@
-# The-Three-Body-Problem
+# The Three-Body Problem
 
 The code presented in this repository was developed during the final project of the Computer Simulations in Physics 
 course at the University of Belgrade, Faculty of Physics - Applied and Computational Physics. 

@@ -1,0 +1,16 @@
+Earth - [x_E, y_E] - 1 year
+[155752838114.31805, -43042317086.779816]
+
+Initial cooridnates (internet) [ 1.521e+11 , 0 ]
+
+Initial cooridnates after the first iteration
+[152078633456.07886, 2531526199.917285]
+
+
+Moon - [x_M, y_M] - 1 year
+[138737956327.56488, -72679639535.10555]
+
+Initial cooridnates (internet) [ 1.52507e+11 , 0 ]
+
+Initial cooridnates after the first iteration
+[152482563287.08957, 2617293902.6433477]
